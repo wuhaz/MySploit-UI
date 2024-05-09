@@ -2,7 +2,7 @@
 
 ## Booting the Library
 ```lua
-local UILibrary = local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/wuhaz/UI-Librarys/main/MySploit.lua"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/wuhaz/UI-Librarys/main/MySploit.lua"))()
 ```
 
 ## Creating a Window
